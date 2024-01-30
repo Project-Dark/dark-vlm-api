@@ -1,1 +1,1 @@
-<img width="1756" alt="Untitled" src="https://github.com/Project-Dark/dark-vlm-api/assets/96812236/e5951130-c24d-4a7d-bdd5-b588db663562">
+<img width="1756" alt="Untitled (2)" src="https://github.com/Project-Dark/dark-vlm-api/assets/96812236/8788d241-6f71-493c-9b11-f03f4a718da9">
